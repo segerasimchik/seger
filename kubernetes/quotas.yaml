@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ResourceQuota
+metadata:
+  name: resource-100-pods
+spec:
+  hard:
+    pods: "100"
