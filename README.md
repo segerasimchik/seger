@@ -1,1 +1,2 @@
 Seger
+New commit added
